@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\AppOne\AppOne\bin\Debug\netstandard2.0\AppOne.deps.json
+C:\Users\pedro\source\repos\AppOne\AppOne\bin\Debug\netstandard2.0\AppOne.dll
+C:\Users\pedro\source\repos\AppOne\AppOne\bin\Debug\netstandard2.0\ref\AppOne.dll
+C:\Users\pedro\source\repos\AppOne\AppOne\bin\Debug\netstandard2.0\AppOne.pdb
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.dll
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\refint\AppOne.dll
+C:\Users\pedro\source\repos\AppOne\AppOne\obj\Debug\netstandard2.0\AppOne.pdb
